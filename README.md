@@ -2,7 +2,7 @@
 Prácticas Diseño Interfaces de Usuario 2020-21 (Tema: Turismo) 
 
 Grupo: DIU3_LosArtistas.  Curso: 2020/21 
-Updated: 8/2/2021
+Updated: 8/3/2021
 
 Proyecto: 
 >>> Decida el nombre corto de su propuesta en la práctica 2 
@@ -26,6 +26,8 @@ Miembros
 
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
+
+>>> Tenemos asignadas aplicaciones de experiencias y planificación de ocio...
 
 >>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
 
