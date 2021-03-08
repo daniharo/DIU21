@@ -2,7 +2,7 @@
 Prácticas Diseño Interfaces de Usuario 2020-21 (Tema: Turismo) 
 
 Grupo: DIU3_LosArtistas.  Curso: 2020/21 
-Updated: 8/3/2021
+Updated: 9/3/2021
 
 Proyecto: 
 >>> Decida el nombre corto de su propuesta en la práctica 2 
@@ -51,7 +51,7 @@ Miembros
 | Permite que los usuarios publiquen opiniones sobre la experiencia | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :x: |
 | Proporciona información sobre las restricciones por coronavirus en las experiencias | :heavy_check_mark: Mensaje genérico | :heavy_check_mark: Mensaje adaptado a cada experiencia | :x: | :heavy_check_mark: Depende del publicador de la experiencia |
 
->>> La plataforma que hemos elegido es [Civitatis](https://www.civitatis.com/es/ "Civitatis") por los siguientes motivos: es la plataforma que más se adapta a nuestro objetivo en los aspectos que hemos considerado importantes, ocupa la mayor cuota de mercado, es decir, es la más extendida entre los clientes y tiene capacidad de adaptarse para cubrir experiencias que, a día de hoy, no cubre como, por ejemplo, experiencias y actividades en zonas no tan populares.
+>>> La plataforma que hemos elegido es [Civitatis](https://www.civitatis.com/es/ "Civitatis") por los siguientes motivos: es la plataforma que más se adapta a nuestro objetivo en los aspectos que hemos considerado importantes; ocupa la mayor cuota de mercado, es decir, es la más extendida entre los clientes; y tiene capacidad de adaptarse para cubrir experiencias que, a día de hoy, no cubre como, por ejemplo, experiencias y actividades en zonas no tan populares.
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
