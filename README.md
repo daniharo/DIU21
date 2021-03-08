@@ -33,19 +33,19 @@ Miembros
 
 | | [Civitatis](https://www.civitatis.com/es/ "Civitatis") | [TripAdvisor](https://www.tripadvisor.es/ "TripAdvisor") | [Airbnb](https://www.airbnb.es/ "Airbnb") | [Agenda cultural Junta de Andalucía](https://www.juntadeandalucia.es/cultura/agendaculturaldeandalucia/ "Agenda cultural Junta de Andalucía") |
 | ---- | ---- | ---- | ---- | ---- |
-| Permite publicar experiencias. | De forma comercial | De forma comercial | De forma comercial | De forma particular e institucional |
-| Ofrece experiencias gratuitas. | Sí | No | No | Sí |
-| Ofrece experiencias en diversidad de sitios, no solo en los más turísticos. | No | No | No | Sí |
-| Ofrece experiencias online. | No | No | Sí | No |
-| Permite buscar experiencias. | Sí | Sí | Sí | Sí |
-| Permite filtrar experiencias por lugar. | Sí | Sí | Sí | Sí |
-| Permite filtrar experiencias por fecha. | Sí | Sí | Sí | Sí |
-| Permite filtrar experiencias por precio. | Sí | Sí | No | No |
-| Permite filtrar experiencias por accesibilidad. | Sí | No | No | No |
-| Permite realizar la reserva de la experiencia. | Sí | Sí | Sí | No |
-| Permite gestionar la reserva sin estar registrado. | Sí | No | No | No procede |
-| Permite que los usuarios publiquen opiniones sobre la experiencia. | Sí | Sí | Sí | No |
-| Proporciona información sobre las restricciones por coronavirus en las experiencias. | Mensaje genérico | Mensaje adaptado a cada experiencia | No | Depende del publicador de la experiencia |
+| Permite publicar experiencias | :heavy_check_mark: De forma comercial | :heavy_check_mark: De forma comercial | :heavy_check_mark: De forma comercial | :heavy_check_mark: De forma particular e institucional |
+| Ofrece experiencias gratuitas | :heavy_check_mark: | :x: | :x: | :heavy_check_mark: |
+| Ofrece experiencias en diversidad de sitios, no solo en los más turísticos | :x: | :x: | :x: | :heavy_check_mark: |
+| Ofrece experiencias online | :x: | :x: | :heavy_check_mark: | :x: |
+| Permite buscar experiencias | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| Permite filtrar experiencias por lugar | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| Permite filtrar experiencias por fecha | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| Permite filtrar experiencias por precio | :heavy_check_mark: | :heavy_check_mark: | :x: | :x: |
+| Permite filtrar experiencias por accesibilidad | :heavy_check_mark: | :x: | :x: | :x: |
+| Permite realizar la reserva de la experiencia | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :x: |
+| Permite gestionar la reserva sin estar registrado | :heavy_check_mark: | :x: | :x: | :heavy_minus_sign: No procede |
+| Permite que los usuarios publiquen opiniones sobre la experiencia | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :x: |
+| Proporciona información sobre las restricciones por coronavirus en las experiencias | :heavy_check_mark: Mensaje genérico | :heavy_check_mark: Mensaje adaptado a cada experiencia | :x: | :heavy_check_mark: Depende del publicador de la experiencia |
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
