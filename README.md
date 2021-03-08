@@ -29,7 +29,23 @@ Miembros
 
 >>> Tenemos asignadas aplicaciones de experiencias y planificación de ocio...
 
->>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
+>>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres)
+
+| | [Civitatis](https://www.civitatis.com/es/ "Civitatis") | [TripAdvisor](https://www.tripadvisor.es/ "TripAdvisor") | [Airbnb](https://www.airbnb.es/ "Airbnb") | [Agenda cultural Junta de Andalucía](https://www.juntadeandalucia.es/cultura/agendaculturaldeandalucia/ "Agenda cultural Junta de Andalucía") |
+| ---- | ---- | ---- | ---- | ---- |
+| Permite publicar experiencias. | De forma comercial | De forma comercial | De forma comercial | De forma particular e institucional |
+| Ofrece experiencias gratuitas. | Sí | No | No | Sí |
+| Ofrece experiencias en diversidad de sitios, no solo en los más turísticos. | No | No | No | Sí |
+| Ofrece experiencias online. | No | No | Sí | No |
+| Permite buscar experiencias. | Sí | Sí | Sí | Sí |
+| Permite filtrar experiencias por lugar. | Sí | Sí | Sí | Sí |
+| Permite filtrar experiencias por fecha. | Sí | Sí | Sí | Sí |
+| Permite filtrar experiencias por precio. | Sí | Sí | No | No |
+| Permite filtrar experiencias por accesibilidad. | Sí | No | No | No |
+| Permite realizar la reserva de la experiencia. | Sí | Sí | Sí | No |
+| Permite gestionar la reserva sin estar registrado. | Sí | No | No | No procede |
+| Permite que los usuarios publiquen opiniones sobre la experiencia. | Sí | Sí | Sí | No |
+| Proporciona información sobre las restricciones por coronavirus en las experiencias. | Mensaje genérico | Mensaje adaptado a cada experiencia | No | Depende del publicador de la experiencia |
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
