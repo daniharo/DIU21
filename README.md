@@ -32,7 +32,6 @@ Miembros
 >>> - [TripAdvisor](https://www.tripadvisor.es/ "TripAdvisor"): No está centrada exclusivamente en las experiencias y planificación de ocio. Permite buscar alojamientos, restaurantes, vuelos, etc. Además, destaca por la comunidad tan grande que posee, que la hace una plataforma repleta de opiniones e hilos en foros que permiten encontrar casi cualquier opinión sobre diferentes restaurantes, hoteles, actividades, etc.
 >>> - [Airbnb](https://www.airbnb.es/ "Airbnb"):  Está centrada principalmente en el alojamiento, razón por la que se expandió en sus comienzos. Sin embargo, ofrece tanto experiencias presenciales como experiencias online. Estas últimas surgen debido a la pandemia de COVID-19 con un aire renovador de adaptación. Se posiciona como la única plataforma en ofrecer experiencias online.
 >>> - [Agenda cultural Junta de Andalucía](https://www.juntadeandalucia.es/cultura/agendaculturaldeandalucia/ "Agenda cultural Junta de Andalucía"): Está centrada exclusivamente en las experiencias y planificación de ocio. Permite conocer la mayor parte de los eventos culturales de Andalucía. Está dedicada a poner en valor el ocio regional y rural.
-
 >>> Tabla de análisis comparativo que refleja algunas de las que hemos considerado principales características de las diferentes plataformas elegidas:
 
 | | [Civitatis](https://www.civitatis.com/es/ "Civitatis") | [TripAdvisor](https://www.tripadvisor.es/ "TripAdvisor") | [Airbnb](https://www.airbnb.es/ "Airbnb") | [Agenda cultural Junta de Andalucía](https://www.juntadeandalucia.es/cultura/agendaculturaldeandalucia/ "Agenda cultural Junta de Andalucía") |
@@ -56,7 +55,21 @@ Miembros
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 
->>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
+>>> ## Roberto
+>>> ### ¿Por qué hemos seleccionado a Roberto?
+>>> Hemos seleccionado a Roberto por varios motivos:
+>>> - No está familiarizado con las nuevas tecnologías.
+>>> - Puede encontrar algunas dificultades a la hora de utilizar la plataforma.
+>>> - Está interesado en aprender y vivir nuevas experiencias.
+
+>>> ## Ana
+>>> ### ¿Por qué hemos seleccionado a Ana?
+>>> Hemos seleccionado a Ana por varios motivos:
+>>> - Mot1
+>>> - Mot2
+>>> - Mot3
+
+>>> Por lo anterior, hemos llegado a la conclusión de que Roberto y Ana son usuarios que pueden aportarnos gran valor a la hora de realizar el análisis de la experiencia de usuario de la plataforma seleccionada.
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
