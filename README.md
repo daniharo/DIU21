@@ -68,9 +68,9 @@ Miembros
 >>> ## Ana
 >>> ### ¿Por qué hemos seleccionado a Ana?
 >>> Hemos seleccionado a Ana por varios motivos:
->>> - Mot1
->>> - Mot2
->>> - Mot3
+>>> - Está acostumbrada a las nuevas tecnologías.
+>>> - Sus exigencias en materia de interfaz de usuario son altas. Si no es lo suficientemente intuitiva, muy probablemente tardará poco en salirse del servicio.
+>>> - En ella es muy importante la fase de “Soñar”: se le tiene que notificar debidamente de los posibles eventos de su gusto.
 
 ![image](P1/img/ana.png)
 
@@ -243,16 +243,3 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 
 
 >>> (90-150 palabras) Opinión del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos  
-
-
-
-
-
-
-
-
-
-
-
-
-
