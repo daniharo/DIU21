@@ -75,18 +75,18 @@ angular.module("angular", [])
                 
 				Id: 1,
 				Name: "Ana",
-				Photo: "ana.jpg",
+				Photo: "ana.jpeg",
 				Quote: "La cuestión es aprovechar el tiempo al máximo",
 				Age: 22,
-				Occupation: "Estudiante",
-				Family: "Soltera",
-				Location: "Granada",
+				Occupation: "Estudiante.",
+				Family: "Soltera.",
+				Location: "Granada.",
 				Character: "Quiere divertirse al máximo con sus amigos.",
 				PersonalityTraits: [
-					{ Name: "Introvertido/reservado Vs  Extrov/activo ", Value: 5 },
-					{ Name: "Realista/práctico  Vs    Intuición/imaginativo", Value: 3 },
-					{ Name: "Racional/analitico  Vs   Emocional/impulsivo", Value: 3 },
-					{ Name: "Flemático/apático  Vs   Colérico/visceral", Value: 4 }
+					{ Name: "Introvertido/Reservado Vs  Extrovertido/Activo ", Value: 5 },
+					{ Name: "Realista/Práctico  Vs    Intuitivo/Imaginativo", Value: 3 },
+					{ Name: "Racional/Analítico  Vs   Emocional/Impulsivo", Value: 3 },
+					{ Name: "Flemático/Apático  Vs   Colérico/Visceral", Value: 4 }
 				], 
 				Goals: ["Conocer más a sus amigos.", "Acudir a festivales para pasárselo bien.", "Olvidarse de los estudios."],
 				Frustrations: ["No dispone de demasiado tiempo para salir fuera.", "Tiene que gestionar muy bien en qué gasta su dinero.", "A veces, aunque hay eventos de su gusto en su zona, se entera demasiado tarde."],
@@ -98,12 +98,12 @@ angular.module("angular", [])
 					{ Name: "Software", Value: 3 }
 					
 				], 
-                Contextos:   "The goals this user hopes to achieve." ,
+                Contextos:   "Necesita enterarse con bastante tiempo de los eventos musicales que pueda haber en su zona para así poder organizarse con sus amigos." ,
 				PreferredChannels: [
-					{ Name: "Publicidad Tradicional (Ads)", Value: 1 },
+					{ Name: "Publicidad Tradicional", Value: 1 },
 					{ Name: "Online & Social Media", Value: 5 },
-					{ Name: "Recomendaciones & sugerencias", Value: 4 },
-					{ Name: "Persona confianza (amigos, boca a boca)", Value: 5 }
+					{ Name: "Recomendaciones & Sugerencias", Value: 4 },
+					{ Name: "Persona de Confianza (amigos, boca a boca)", Value: 5 }
 				]
 			}
 		];
