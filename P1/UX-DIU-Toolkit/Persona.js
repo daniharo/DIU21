@@ -74,36 +74,36 @@ angular.module("angular", [])
                 
                 
 				Id: 1,
-				Name: "Monica Suarez",
+				Name: "Ana",
 				Photo: "woman.png",
-				Quote: "A quotation that captures the essence of this person's personality",
-				Age: 17,
-				Occupation: "Searching for a cure for the Empress",
-				Family: "No parents, only family are the people who raised him.",
-				Location: "The Grassy Plains of Fantasia",
-				Character: "Strong, reliable and fearless.",
+				Quote: "La cuestión es aprovechar el tiempo al máximo",
+				Age: 22,
+				Occupation: "Estudiante",
+				Family: "Soltera",
+				Location: "Granada",
+				Character: "Quiere divertirse al máximo con sus amigos.",
 				PersonalityTraits: [
-					{ Name: "Introvertido/reservado Vs  Extrov/activo ", Value: 3 },
+					{ Name: "Introvertido/reservado Vs  Extrov/activo ", Value: 5 },
 					{ Name: "Realista/práctico  Vs    Intuición/imaginativo", Value: 3 },
-					{ Name: "Racional/analitico  Vs   Emocional/impulsivo", Value: 2 },
-					{ Name: "Flemático/apático  Vs   Colérico/visceral", Value: 2 }
+					{ Name: "Racional/analitico  Vs   Emocional/impulsivo", Value: 3 },
+					{ Name: "Flemático/apático  Vs   Colérico/visceral", Value: 4 }
 				], 
-				Goals: ["The goals this user hopes to achieve.", "A task that needs to be completed.", "A life goal to be reached.", "An experience to be felt."],
-				Frustrations: ["The frustrations this user would like to avoid.", "The obstacle that prevents the user from achieving their goals.", "The problems with the solutions already available.", "The product or service which does not currently exist."],
-				Bio: "The bio should be a short paragraph to describe the user journey. It should include some of their history leading up to a current use case. It may be helpful to incorporate information listed across the template and add pertinent details that may have been left out. Highlight factors of the user's personal and professional life that make this user an ideal customer of your product.",
+				Goals: ["Conocer más a sus amigos.", "Acudir a festivales para pasárselo bien.", "Olvidarse de los estudios."],
+				Frustrations: ["No dispone de demasiado tiempo para salir fuera.", "Tiene que gestionar muy bien en qué gasta su dinero.", "A veces, aunque hay eventos de su gusto en su zona, se entera demasiado tarde."],
+				Bio: "Actualmente estudia la carrera de Farmacia en la UGR. Pasa la semana en un pequeño piso de Granada, sin salir mucho porque sus estudios requieren de mucha dedicación. Le encanta ayudar a sus compañeros de clase con los temas relacionados con la tecnología. Los fines de semana no suele irse a su casa porque sus padres se encuentran divorciados y no lo pasa muy bien en su pequeño pueblo, así que recurre a los viajes con sus amigos.",
 				Tech: [
-					{ Name: "TIC/Internet", Value: 5 },
-					{ Name: "Mobile", Value: 3 },
-					{ Name: "RRSS", Value: 3 },
-					{ Name: "Software", Value: 5 }
+					{ Name: "TIC/Internet", Value: 4 },
+					{ Name: "Mobile", Value: 5 },
+					{ Name: "RRSS", Value: 5 },
+					{ Name: "Software", Value: 3 }
 					
 				], 
                 Contextos:   "The goals this user hopes to achieve." ,
 				PreferredChannels: [
-					{ Name: "Publicidad Tradicional (Ads)", Value: 5 },
-					{ Name: "Online & Social Media", Value: 2 },
-					{ Name: "Recomendaciones & sugerencias", Value: 2 },
-					{ Name: "Persona confianza (amigos, boca a boca)", Value: 2 }
+					{ Name: "Publicidad Tradicional (Ads)", Value: 1 },
+					{ Name: "Online & Social Media", Value: 5 },
+					{ Name: "Recomendaciones & sugerencias", Value: 4 },
+					{ Name: "Persona confianza (amigos, boca a boca)", Value: 5 }
 				]
 			}
 		];
