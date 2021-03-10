@@ -27,13 +27,13 @@ Miembros
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
 
->>> En relación a la asignación **DIU3 Experiencias y planificación de ocio**, hemos elegido los siguientes cuatro competidores que compararemos atendiendo a diferentes factores; entre ellos, la experiencia de usuario en los más diversos y frecuentes micro-momentos que pueden tener los usuarios en sus aventuras por las plataformas.
->>> - [Civitatis](https://www.civitatis.com/es/ "Civitatis"): Está centrada exclusivamente en las experiencias y planificación de ocio. Permite consultar y reservar diferentes experiencias en los lugares más turísticos del planeta. Es muy reconocida a nivel internacional y sirve de guía para muchos turistas ofreciendo diferentes itinerarios de visita en función de las necesidades de los mismos.
->>> - [TripAdvisor](https://www.tripadvisor.es/ "TripAdvisor"): No está centrada exclusivamente en las experiencias y planificación de ocio. Permite buscar alojamientos, restaurantes, vuelos, etc. Además, destaca por la comunidad tan grande que posee, que la hace una plataforma repleta de opiniones e hilos en foros que permiten encontrar casi cualquier opinión sobre diferentes restaurantes, hoteles, actividades, etc.
->>> - [Airbnb](https://www.airbnb.es/ "Airbnb"):  Está centrada principalmente en el alojamiento, razón por la que se expandió en sus comienzos. Sin embargo, ofrece tanto experiencias presenciales como experiencias online. Estas últimas surgen debido a la pandemia de COVID-19 con un aire renovador de adaptación. Se posiciona como la única plataforma en ofrecer experiencias online.
->>> - [Agenda cultural Junta de Andalucía](https://www.juntadeandalucia.es/cultura/agendaculturaldeandalucia/ "Agenda cultural Junta de Andalucía"): Está centrada exclusivamente en las experiencias y planificación de ocio. Permite conocer la mayor parte de los eventos culturales de Andalucía. Está dedicada a poner en valor el ocio regional y rural.
->>> 
->>> Tabla de análisis comparativo que refleja algunas de las que hemos considerado principales características de las diferentes plataformas elegidas:
+ En relación a la asignación **DIU3 Experiencias y planificación de ocio**, hemos elegido los siguientes cuatro competidores que compararemos atendiendo a diferentes factores; entre ellos, la experiencia de usuario en los más diversos y frecuentes micro-momentos que pueden tener los usuarios en sus aventuras por las plataformas.
+ - [Civitatis](https://www.civitatis.com/es/ "Civitatis"): Está centrada exclusivamente en las experiencias y planificación de ocio. Permite consultar y reservar diferentes experiencias en los lugares más turísticos del planeta. Es muy reconocida a nivel internacional y sirve de guía para muchos turistas ofreciendo diferentes itinerarios de visita en función de las necesidades de los mismos.
+ - [TripAdvisor](https://www.tripadvisor.es/ "TripAdvisor"): No está centrada exclusivamente en las experiencias y planificación de ocio. Permite buscar alojamientos, restaurantes, vuelos, etc. Además, destaca por la comunidad tan grande que posee, que la hace una plataforma repleta de opiniones e hilos en foros que permiten encontrar casi cualquier opinión sobre diferentes restaurantes, hoteles, actividades, etc.
+ - [Airbnb](https://www.airbnb.es/ "Airbnb"):  Está centrada principalmente en el alojamiento, razón por la que se expandió en sus comienzos. Sin embargo, ofrece tanto experiencias presenciales como experiencias online. Estas últimas surgen debido a la pandemia de COVID-19 con un aire renovador de adaptación. Se posiciona como la única plataforma en ofrecer experiencias online.
+ - [Agenda cultural Junta de Andalucía](https://www.juntadeandalucia.es/cultura/agendaculturaldeandalucia/ "Agenda cultural Junta de Andalucía"): Está centrada exclusivamente en las experiencias y planificación de ocio. Permite conocer la mayor parte de los eventos culturales de Andalucía. Está dedicada a poner en valor el ocio regional y rural.
+ 
+ Tabla de análisis comparativo que refleja algunas de las que hemos considerado principales características de las diferentes plataformas elegidas:
 
 | | [Civitatis](https://www.civitatis.com/es/ "Civitatis") | [TripAdvisor](https://www.tripadvisor.es/ "TripAdvisor") | [Airbnb](https://www.airbnb.es/ "Airbnb") | [Agenda cultural Junta de Andalucía](https://www.juntadeandalucia.es/cultura/agendaculturaldeandalucia/ "Agenda cultural Junta de Andalucía") |
 | ---- | ---- | ---- | ---- | ---- |
@@ -51,30 +51,30 @@ Miembros
 | Permite que los usuarios publiquen opiniones sobre la experiencia | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :x: |
 | Proporciona información sobre las restricciones por coronavirus en las experiencias | :heavy_check_mark: Mensaje genérico | :heavy_check_mark: Mensaje adaptado a cada experiencia | :x: | :heavy_check_mark: Depende del publicador de la experiencia |
 
->>> La plataforma que hemos elegido es [Civitatis](https://www.civitatis.com/es/ "Civitatis") por los siguientes motivos: es la plataforma que más se adapta a nuestro objetivo en los aspectos que hemos considerado importantes; ocupa la mayor cuota de mercado, es decir, es la más extendida entre los clientes; y tiene capacidad de adaptarse para cubrir experiencias que, a día de hoy, no cubre como, por ejemplo, experiencias y actividades en zonas no tan populares.
+ La plataforma que hemos elegido es [Civitatis](https://www.civitatis.com/es/ "Civitatis") por los siguientes motivos: es la plataforma que más se adapta a nuestro objetivo en los aspectos que hemos considerado importantes; ocupa la mayor cuota de mercado, es decir, es la más extendida entre los clientes; y tiene capacidad de adaptarse para cubrir experiencias que, a día de hoy, no cubre como, por ejemplo, experiencias y actividades en zonas no tan populares.
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 
->>> ## Roberto
->>> ### ¿Por qué hemos seleccionado a Roberto?
->>> Hemos seleccionado a Roberto por varios motivos:
->>> - No está familiarizado con las nuevas tecnologías.
->>> - Puede encontrar algunas dificultades a la hora de utilizar la plataforma.
->>> - Está interesado en aprender y vivir nuevas experiencias.
+ ## Roberto
+ ### ¿Por qué hemos seleccionado a Roberto?
+ Hemos seleccionado a Roberto por varios motivos:
+ - No está familiarizado con las nuevas tecnologías.
+ - Puede encontrar algunas dificultades a la hora de utilizar la plataforma.
+ - Está interesado en aprender y vivir nuevas experiencias.
 
 ![image](P1/img/roberto.png)
 
->>> ## Ana
->>> ### ¿Por qué hemos seleccionado a Ana?
->>> Hemos seleccionado a Ana por varios motivos:
->>> - Está acostumbrada a las nuevas tecnologías.
->>> - Sus exigencias en materia de interfaz de usuario son altas. Si no es lo suficientemente intuitiva, muy probablemente tardará poco en salirse del servicio.
->>> - En ella es muy importante la fase de “Soñar”: se le tiene que notificar debidamente de los posibles eventos de su gusto.
+ ## Ana
+ ### ¿Por qué hemos seleccionado a Ana?
+ Hemos seleccionado a Ana por varios motivos:
+ - Está acostumbrada a las nuevas tecnologías.
+ - Sus exigencias en materia de interfaz de usuario son altas. Si no es lo suficientemente intuitiva, muy probablemente tardará poco en salirse del servicio.
+ - En ella es muy importante la fase de “Soñar”: se le tiene que notificar debidamente de los posibles eventos de su gusto.
 
 ![image](P1/img/ana.png)
 
->>> Por lo anterior, hemos llegado a la conclusión de que Roberto y Ana son usuarios que pueden aportarnos gran valor a la hora de realizar el análisis de la experiencia de usuario de la plataforma seleccionada.
+Por lo anterior, hemos llegado a la conclusión de que Roberto y Ana son usuarios que pueden aportarnos gran valor a la hora de realizar el análisis de la experiencia de usuario de la plataforma seleccionada.
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
