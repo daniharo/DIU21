@@ -63,12 +63,16 @@ Miembros
 >>> - Puede encontrar algunas dificultades a la hora de utilizar la plataforma.
 >>> - Está interesado en aprender y vivir nuevas experiencias.
 
+![image](P1/img/roberto.png)
+
 >>> ## Ana
 >>> ### ¿Por qué hemos seleccionado a Ana?
 >>> Hemos seleccionado a Ana por varios motivos:
 >>> - Mot1
 >>> - Mot2
 >>> - Mot3
+
+![image](P1/img/ana.png)
 
 >>> Por lo anterior, hemos llegado a la conclusión de que Roberto y Ana son usuarios que pueden aportarnos gran valor a la hora de realizar el análisis de la experiencia de usuario de la plataforma seleccionada.
 
