@@ -79,8 +79,10 @@ Por lo anterior, hemos llegado a la conclusión de que Roberto y Ana son usuario
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
-
 >>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
+
+![image](P1/img/robertojm.png)
+
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
