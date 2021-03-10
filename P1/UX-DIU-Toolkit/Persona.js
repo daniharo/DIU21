@@ -75,7 +75,7 @@ angular.module("angular", [])
                 
 				Id: 1,
 				Name: "Ana",
-				Photo: "woman.png",
+				Photo: "ana.jpg",
 				Quote: "La cuestión es aprovechar el tiempo al máximo",
 				Age: 22,
 				Occupation: "Estudiante",
