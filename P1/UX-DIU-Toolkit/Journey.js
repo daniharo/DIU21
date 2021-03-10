@@ -38,30 +38,30 @@ angular.module("angular", [])
                 Photo: "roberto.jpeg",
     
                 /*** PASO #1: INSPIRACION ***/ 
-                goal1: "quiere preparar un viaje con sus amigos en Semana Santa",
-                touch1: "agenda",
+                goal1: "Preparar un viaje para vivir nuevas experiencias y agradecer a sus amigos la ayuda que le han prestado. Busca un lugar de montaña.",
+                touch1: "Calendario",
                 feel1: "4",
-                con1: "ver cuantos días puede tener libres para organizar lugar de viaje ",
-                ima1: "cartoon-planning.png",
+                con1: "Encontrar fecha en la que pueda ir con sus amigos. Cada uno tiene sus ocupaciones. No quiere viajar a otro país ya que no es bueno con los idiomas.",
+                ima1: "cartoon-phoning.png",
 				
                 /*** PASO #2: DECICION ***/ 
-                goal2: "Busca en internet ofertas para esas fechas",
-                touch2: "Movil",
-                feel2: "2",
-                con2: "hay demasiada información y pierde mucho tiempo, no hay precios 'baratos'",
-                ima2: "cartoon-PCangry.png",
+                goal2: "Buscar en qué sitios puede realizar actividades de montaña.",
+                touch2: "Ordenador",
+                feel2: "1",
+                con2: "No puede filtrar por actividades de montaña en la plataforma, es necesario elegir un lugar previamente.",
+                ima2: "cartoon-why.png",
                 
                 /*** PASO #3: ACTUA ***/ 
                 
-                goal3: "Decide buscar un alojamiento rural  en plasencia, donde hay procesiones y parece que hará buen tiempo",
-                touch3: "móvil (el tiempo)",
+                goal3: "Decidir que el Pirineo aragonés es el lugar al que quiere ir con sus amigos.",
+                touch3: "Ordenador (Google Maps)",
                 feel3: "3",
-                con3: "Está preocupado por el tiempo y el desplazamiento (coche y aparcamiento)",
-                ima3: "cartoon-phone.png",
+                con3: "Ha tenido que acudir a otras páginas.",
+                ima3: "cartoon-PChard.png",
                 
                 /*** PASO #4: OBSERVA ***/ 
                 
-                goal4: "Los amigos le recomiendan una página para escoger alojamientos",
+                goal4: "Buscar actividades que realizar en el Pirineo aragonés.",
                 touch4: "ordenador",
                 feel4: "4",
                 con4: "Buscar opciones en el lugar que había seleccionado, viendo precios y distancias, tiene que ver si hay aparcamiento fácil",
@@ -69,20 +69,20 @@ angular.module("angular", [])
                 
                  /*** PASO #5: ANALIZA ***/ 
                 
-                goal5: "Se encuentra 3 opciones que encajan en sus preferencias",
-                touch5: "móvil (whatsapp)",
-                feel5: "2",
-                con5: "Llama a sus amigos (whatsapp no responen) para ver cual es su preferencia, tienen que reservar rápido por los precios",
-                ima5: "cartoon-phoning.png",
+                goal5: "Elegir entre las actividades que se ajustan a sus preferencias.",
+                touch5: "Ordenador",
+                feel5: "4",
+                con5: "Es bastante indeciso. Le gustaría realizarlas todas, pero no tiene suficiente dinero.",
+                ima5: "cartoon-thinking.png",
                 
                 
                 /*** PASO #6: CONCLUSION ***/ 
                 
-                goal6: "Consigue reservar, otro año se encarga otro!",
-                touch6: "ordenador",
+                goal6: "Hacer la reserva de la actividad de barranquismo en Ordesa.",
+                touch6: "Ordenador",
                 feel6: "3",
-                con6: "algunos amigos no confirmaron por lo que tuvo que seleccionar reserva con posibilidad de cancelación",
-                ima6: "cartoon-resting.png",
+                con6: "No tiene suficiente dinero en la cuenta. Se rechaza el pago. Cuando intenta volverlo a realizar se han borrado todos los datos.",
+                ima6: "cartoon-sad.png",
                 
 			},
 			{	
@@ -92,8 +92,8 @@ angular.module("angular", [])
                 /*************************************/
                 
 				Id: 1,
-				Name: "Monica Suarez",
-                Photo: "woman.png",
+				Name: "Ana",
+                Photo: "ana.jpeg",
                 
 				 /*** PASO #1: INSPIRACION ***/ 
                 goal1: "Quiere preparar un viaje con su familia para Verano, tiene sólo 15 dias libres",
