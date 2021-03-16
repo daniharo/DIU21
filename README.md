@@ -81,6 +81,13 @@ Por lo anterior, hemos llegado a la conclusión de que Roberto y Ana son usuario
 
 >>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
 
+### ![image](P1/img/roberto.ico) Journey Map de Roberto
+
+![image](P1/img/robertojm.png)
+
+
+### ![image](P1/img/ana.ico) Journey Map de Ana
+
 ![image](P1/img/robertojm.png)
 
 
