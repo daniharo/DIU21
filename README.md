@@ -83,12 +83,16 @@ Por lo anterior, hemos llegado a la conclusión de que Roberto y Ana son usuario
 
 ### ![image](P1/img/roberto.ico) Journey Map de Roberto
 
-![image](P1/img/robertojm.png)
+![image](P1/img/robertojmnoheader.png)
+
+Consideramos que la experiencia de usuario de Roberto...
 
 
 ### ![image](P1/img/ana.ico) Journey Map de Ana
 
-![image](P1/img/robertojm.png)
+![image](P1/img/anajmnoheader.png)
+
+Consideramos que la experiencia de usuario de Ana...
 
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
