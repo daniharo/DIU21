@@ -96,51 +96,51 @@ angular.module("angular", [])
                 Photo: "ana.jpeg",
                 
 				 /*** PASO #1: INSPIRACION ***/ 
-                goal1: "Quiere preparar un viaje con su familia para Verano, tiene sólo 15 dias libres",
-                touch1: "agenda",
+                goal1: "Preparar algunas actividades para realizar el fin de semana con sus compañeros de clase.",
+                touch1: "Calendario",
                 feel1: "5",
-                con1: "Quiere ir a un pais exotico pero que tenga atracciones para niños pequeños",
-                ima1: "cartoon-going.png",
+                con1: "No sabe de forma definitiva cuántos de sus amigos pueden. Es probable que alguna actividad se tenga que cancelar por esa razón.",
+                ima1: "cartoon-writting.png",
                 
                 /*** PASO #2: DECICION ***/ 
-                goal2: "Ir a una agencia de viajes, y decirle sus preferencias y planes",
-                touch2: "Servicio (agencia)",
+                goal2: "Buscar qué tipo de actividades se pueden realizar en Granada y sus alrededores.",
+                touch2: "Móvil",
                 feel2: "4",
-                con2: "Tiene que desplazarse a agencia, explica su intenciones, le llamaran porque no hay nada interesante",
-                ima2: "cartoon-teamthinking.png",
+                con2: "Debe encontrar una actividad que sea accesible para personas en silla de ruedas.",
+                ima2: "cartoon-looking.png",
                 
                 /*** PASO #3: ACTUA ***/ 
                 
-                goal3: "Le llaman a los pocos días con un viaje que no le convence",
-                touch3: "Móvil (llamada)",
-                feel3: "2",
-                con3: "Piensa que ha perdido el tiempo",
-                ima3: "cartoon-phoningangry.png",
+                goal3: "Decidir que quiere elegir entre actividades de paseos nocturnos y gastronomía.",
+                touch3: "Móvil",
+                feel3: "3",
+                con3: "Por las restricciones del coronavirus algunas de esas actividades no están disponibles.",
+                ima3: "cartoon-phone.png",
                 
                 /*** PASO #4: OBSERVA ***/ 
                 
-                goal4: "Busca una oferta en hoteles cerca de playa y con parque atracciones",
-                touch4: "Móvil (webapp)",
+                goal4: "Confirmar que las dos actividades que ha encontrado son accesibles para personas en silla de ruedas.",
+                touch4: "Móvil (llamada)",
                 feel4: "2",
-                con4: "No hay mucha información del alojamiento ni de lo que hay alrededor, aunque el precio está bien, va por la calle por lo que está incómoda",
-                ima4: "cartoon-phone-street.png",
+                con4: "Le informan de que una de las actividades tiene un sobrecoste por adaptación.",
+                ima4: "cartoon-phoning.png",
                 
                  /*** PASO #5: ANALIZA ***/ 
                 
-                goal5: "Reserva a traves de la aplicación ",
-                touch5: "Móvil (webapp)",
-                feel5: "3",
-                con5: "Le pide muchos datos y le resulta incómodo completar formulario",
-                ima5: "cartoon-phone-sitting.png",
+                goal5: "Reservar la actividad de paseo nocturno y degustación de tapas, que no tiene sobrecoste.",
+                touch5: "Ordenador",
+                feel5: "4",
+                con5: "No tiene muy claros los horarios de la actividad.",
+                ima5: "cartoon-PCtyping.png",
 
                 
                 /*** PASO #6: CONCLUSION ***/ 
                 
-                goal6: "Consiguie reservar para vacaciones pero no era lo que tenía en mente",
-                touch6: "Ordenador (reserva OK)",
-                feel6: "2",
-                con6: "Tendrá que buscar más información del lugar para ver que actividades ofrece y donde aparacar!",
-                ima6: "cartoon-PChard.png",
+                goal6: "Consigue reservar la actividad en la que estaban interesados él y sus compañeros para el fin de semana.",
+                touch6: "Ordenador",
+                feel6: "5",
+                con6: "Tendrá que estar atento por si hay que hacer alguna cancelación.",
+                ima6: "cartoon-happy.png",
                 
                 
                 
