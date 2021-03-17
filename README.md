@@ -79,8 +79,6 @@ Por lo anterior, hemos llegado a la conclusión de que Roberto y Ana son usuario
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
-
 ### ![image](P1/img/roberto.ico) Journey Map de Roberto
 
 ![image](P1/img/robertojmnoheader.png)
@@ -97,10 +95,9 @@ Consideramos que la experiencia de usuario de Ana...
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
->>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
->>>> SE deben incluir claramente los siguientes elementos
+
 >>> - Enlace al documento:  (sube a github el xls/pdf) 
->>> - Valoración final (numérica): 
+- Valoración final (numérica): 79 - Good
 >>> - Comentario sobre la valoración:  (60-120 caracteres)
 
 
