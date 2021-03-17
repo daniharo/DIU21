@@ -101,7 +101,7 @@ Consideramos que la experiencia de usuario de Ana...
 >>> - Comentario sobre la valoración:  (60-120 caracteres)
 
 
-## Paso 2. UX Design  
+<!-- ## Paso 2. UX Design  
 
 
 ![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid / EMpathy map / POV
@@ -252,4 +252,4 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 ## Conclusión final / Valoración de las prácticas
 
 
->>> (90-150 palabras) Opinión del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos  
+>>> (90-150 palabras) Opinión del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos  -->
