@@ -92,8 +92,12 @@ Hemos elegido estas dos experiencias de usuario porque representan fielmente sit
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
 
->>> - Enlace al documento:  (sube a github el xls/pdf) 
-- Valoración final (numérica): 79 - Good
+Enlaces a las valoraciones de usabilidad (Usability Reviews):
+:link: [Civitatis-Usability-Review.pdf](P1/Civitatis-Usability-Review.pdf)
+:link: [Civitatis-Usability-Review.xlsx](Civitatis-Usability-Review.xlsx)
+
+🥈 Valoración final (numérica): **79** - **Good**
+
 >>> - Comentario sobre la valoración:  (60-120 caracteres)
 
 
