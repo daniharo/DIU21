@@ -2,7 +2,7 @@
 Prácticas Diseño Interfaces de Usuario 2020-21 (Tema: Turismo) 
 
 Grupo: DIU3_LosArtistas.  Curso: 2020/21 
-Updated: 9/3/2021
+Updated: 17/3/2021
 
 Proyecto: 
 >>> Decida el nombre corto de su propuesta en la práctica 2 
