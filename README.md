@@ -98,9 +98,11 @@ Enlaces a las valoraciones de usabilidad (Usability Reviews):
 
 :link: [Civitatis-Usability-Review.xlsx](P1/Civitatis-Usability-Review.xlsx)
 
+### Valoración final y conclusión
+
 🥈 Valoración final (numérica): **79** - **Good**
 
->>> - Comentario sobre la valoración:  (60-120 caracteres)
+Los pocos fallos que tiene la página no impiden que, en general, la experiencia de uso sea buena. Se incluyen las características de las páginas web actuales como diseño responsive, buena visualización y apariencia, un diseño muy sencillo sin demasiada información y tiempos de respuesta inapreciables. Los usuarios poco experimentados tendrán seguramente una buena experiencia, mientras que los más experimentados, además, notarán que la buena apariencia y simplicidad de la página les invita a quedarse más tiempo.
 
 
 <!-- ## Paso 2. UX Design  
