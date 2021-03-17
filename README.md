@@ -83,15 +83,11 @@ Por lo anterior, hemos llegado a la conclusión de que Roberto y Ana son usuario
 
 ![image](P1/img/robertojmnoheader.png)
 
-Consideramos que la experiencia de usuario de Roberto...
-
-
 ### ![image](P1/img/ana.ico) Journey Map de Ana
 
 ![image](P1/img/anajmnoheader.png)
 
-Consideramos que la experiencia de usuario de Ana...
-
+Hemos elegido estas dos experiencias de usuario porque representan fielmente situaciones que ocurren frecuentemente a diferentes prototipos de personas. En nuestro caso los prototipos: *Roberto*, que no está muy familiarizado con la tecnología, encuentra ciertos problemas tanto a la hora de realizar la búsqueda de actividades como a la hora de realizar la reserva; por su parte, *Ana*, se frustra porque no encuentra información específica sobre accesibilidad para cada actividad.
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
