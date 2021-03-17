@@ -96,7 +96,7 @@ Enlaces a las valoraciones de usabilidad (Usability Reviews):
 
 :link: [Civitatis-Usability-Review.pdf](P1/Civitatis-Usability-Review.pdf)
 
-:link: [Civitatis-Usability-Review.xlsx](Civitatis-Usability-Review.xlsx)
+:link: [Civitatis-Usability-Review.xlsx](P1/Civitatis-Usability-Review.xlsx)
 
 🥈 Valoración final (numérica): **79** - **Good**
 
