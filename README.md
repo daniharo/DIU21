@@ -105,7 +105,7 @@ Enlaces a las valoraciones de usabilidad (Usability Reviews):
 Los pocos fallos que tiene la página no impiden que, en general, la experiencia de uso sea buena. Se incluyen las características de las páginas web actuales como diseño responsive, buena visualización y apariencia, un diseño muy sencillo sin demasiada información y tiempos de respuesta inapreciables. Los usuarios poco experimentados tendrán seguramente una buena experiencia, mientras que los más experimentados, además, notarán que la buena apariencia y simplicidad de la página les invita a quedarse más tiempo.
 
 
-<!-- ## Paso 2. UX Design  
+## Paso 2. UX Design  
 
 
 ![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid / EMpathy map / POV
@@ -154,7 +154,7 @@ Término | Significado
 >>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
 
 
-## Paso 3. Mi UX-Case Study (diseño)
+<!-- ## Paso 3. Mi UX-Case Study (diseño)
 
 
 ![Método UX](img/moodboard.png) 3.a Moodboard
