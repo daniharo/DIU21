@@ -108,28 +108,21 @@ Los pocos fallos que tiene la página no impiden que, en general, la experiencia
 ## Paso 2. UX Design  
 
 
-![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid / EMpathy map / POV
+![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid / Empathy map / POV
 ----
 
+### Empathy map
+![image](P2/img/empathymap.png)
 
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
-
-
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
-  
-    
 >>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
 >>> Problema e hipótesis
 >>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
 >>> (150-200 caracteres)
 
-
-
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
->>> Propuesta de valor 
+
+![image](P2/img/scopecanvas.png)
 
 ![Método UX](img/Sitemap.png) 2.b Tasks analysis 
 -----
@@ -140,9 +133,10 @@ Los pocos fallos que tiene la página no impiden que, en general, la experiencia
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
 ----
 
+### Sitemap
+![image](P2/img/sitemap.png)
 
->>> Identificar términos para diálogo con usuario  
-
+### Labelling
 Término | Significado     
 | ------------- | -------
   Login¿?  | acceder a plataforma
@@ -150,6 +144,15 @@ Término | Significado
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
+
+### Página principal (index.html)
+![image](P2/img/prototipo-index.html.png)
+
+### Página de tipo de experiencia (gastronomy.html)
+![image](P2/img/prototipo-gastronomy.html.png)
+
+### Página de ruta (route.html)
+![image](P2/img/prototipo-route.html.png)
 
 >>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
 
