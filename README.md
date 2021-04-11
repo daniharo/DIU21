@@ -2,14 +2,21 @@
 Prácticas Diseño Interfaces de Usuario 2020-21 (Tema: Turismo) 
 
 Grupo: DIU3_LosArtistas.  Curso: 2020/21 
-Updated: 17/3/2021
+Updated: 11/4/2021
 
-Proyecto: 
->>> Decida el nombre corto de su propuesta en la práctica 2 
+Proyecto:
 
-Descripción: 
+>>> Decida el nombre corto de su propuesta en la práctica 2
+
+***GranadaÁrabe***
+
+Descripción:
 
 >>> Describa la idea de su producto en la práctica 2 
+
+La app ***GranadaÁrabe*** propone al usuario un conjunto de lugares y experiencias: gastronómicas, monumentales, actividades y paseos relacionados con la historia árabe que rodea a Granada.
+
+El usuario podrá seleccionar el tiempo del que dispone para pasar en la ciudad y el tipo de experiencias que le gustaría vivir y disfrutar. En función de su selección, la app proporcionará una serie de rutas que al usuario podrían interesar, entre las cuales podrá elegir.
 
 Logotipo: 
 >>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
@@ -127,6 +134,19 @@ Los pocos fallos que tiene la página no impiden que, en general, la experiencia
 ![Método UX](img/Sitemap.png) 2.b Tasks analysis 
 -----
 
+### Matriz de tareas/usuarios
+
+| **Tareas / Grupos de usuarios**          | *Usuario que quiere hacer una ruta* | *Comerciante de Granada* | *Institución o artista granadino* |
+|:-----------------------------|:-----------------------------------:|:------------------------:|:---------------------------------:|
+| Pedir recomendación de ruta | H                                 | L                      | L                               |
+| Elegir ruta                 | M                                 | L                      | L                               |
+| Iniciar ruta                | M                                 | L                      | L                               |
+| Rechazar ruta               | L                                 | L                      | L                               |
+| Valorar lugar de interés    | M                                 | L                      | L                               |
+| Valorar ruta                | L                                 | L                      | L                               |
+| Publicar anuncio            | L                                 | H                      | H                               |
+| Publicar actividad          | L                                 | H                      | H                               |
+
 >>> Definir "User Map" y "Task Flow" ... 
 
 
@@ -137,10 +157,26 @@ Los pocos fallos que tiene la página no impiden que, en general, la experiencia
 ![image](P2/img/sitemap.png)
 
 ### Labelling
-Término | Significado     
-| ------------- | -------
-  Login¿?  | acceder a plataforma
-
+|          Término          |                                             Significado                                            |
+|-----------------------|-------------------------------------------------------------------------------------------------|
+| About Us                | Información de la empresa y del objetivo de la aplicación                                         |
+| Contact Us              | Información de contacto de la empresa                                                             |
+| Gastronomía             | Experiencias gastronómicas anunciadas en la aplicación                                            |
+| Monumentos              | Experiencias de visitas de monumentos anunciadas en la aplicación                                 |
+| Paseos                  | Experiencias de paseos anunciadas en la aplicación                                                |
+| Actividades             | Experiencias de actividades anunciadas en la aplicación                                           |
+| Rutas                   | Itinerarios con diferentes experiencias                                                           |
+| Buscar ruta             | Buscar ruta en base a las preferencias de fechas y experiencia elegidas                           |
+| Elegir Ruta             | Elegir ruta entre las propuestas                                                                  |
+| Información de Ruta     | Información sobre la ruta propuesta o elegida                                                     |
+| Comenzar Ruta           | Comenzar la ruta elegida para su seguimiento desde la aplicación en tiempo real                   |
+| Realizando Ruta         | Información de la ruta durante su realización                                                     |
+| Opinión                 | Valorar y comentar la ruta realizada                                                              |
+| Buscar                  | Buscar rutas y experiencias en la aplicación                                                      |
+| Login                   | Acceder a la aplicación                                                                           |
+| Register                | Registrarse en la aplicación                                                                      |
+| Perfil de usuario       | Lugar donde se pueden ver los datos y las distintas rutas y reservas de un usuario                |
+| Preferencias de usuario | Lugar donde se pueden modificar determinados aspectos de la configuración de un perfil de usuario |
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
