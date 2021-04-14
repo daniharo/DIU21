@@ -110,6 +110,8 @@ Los pocos fallos que tiene la página no impiden que, en general, la experiencia
 
 ## Paso 2. UX Design  
 
+GranadaÁrabe ofrece a los usuarios una solución gratuita, barata y de calidad para planear sus rutas árabes en la provincia de Granada. Permite conocer la Granada de los musulmanes de forma entretenida, sin perder tiempo y de la manera más local posible, armonizando la cultura y las tradiciones con rutas para todos los gustos.
+
 
 ![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid / Empathy map / POV
 ----
