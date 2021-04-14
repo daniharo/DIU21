@@ -6,13 +6,9 @@ Updated: 11/4/2021
 
 Proyecto:
 
->>> Decida el nombre corto de su propuesta en la práctica 2
-
 ***GranadaÁrabe***
 
 Descripción:
-
->>> Describa la idea de su producto en la práctica 2 
 
 La app ***GranadaÁrabe*** propone al usuario un conjunto de lugares y experiencias: gastronómicas, monumentales, actividades y paseos relacionados con la historia árabe que rodea a Granada.
 
@@ -121,11 +117,6 @@ Los pocos fallos que tiene la página no impiden que, en general, la experiencia
 ### Empathy map
 ![image](P2/img/empathymap.png)
 
->>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
->>> Problema e hipótesis
->>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
->>> (150-200 caracteres)
-
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
 
@@ -147,9 +138,6 @@ Los pocos fallos que tiene la página no impiden que, en general, la experiencia
 | Publicar anuncio            | L                                 | H                      | H                               |
 | Publicar actividad          | L                                 | H                      | H                               |
 
->>> Definir "User Map" y "Task Flow" ... 
-
-
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
 ----
 
@@ -159,24 +147,24 @@ Los pocos fallos que tiene la página no impiden que, en general, la experiencia
 ### Labelling
 |          Término          |                                             Significado                                            |
 |-----------------------|-------------------------------------------------------------------------------------------------|
-| About Us                | Información de la empresa y del objetivo de la aplicación                                         |
-| Contact Us              | Información de contacto de la empresa                                                             |
-| Gastronomía             | Experiencias gastronómicas anunciadas en la aplicación                                            |
-| Monumentos              | Experiencias de visitas de monumentos anunciadas en la aplicación                                 |
-| Paseos                  | Experiencias de paseos anunciadas en la aplicación                                                |
-| Actividades             | Experiencias de actividades anunciadas en la aplicación                                           |
-| Rutas                   | Itinerarios con diferentes experiencias                                                           |
-| Buscar ruta             | Buscar ruta en base a las preferencias de fechas y experiencia elegidas                           |
-| Elegir Ruta             | Elegir ruta entre las propuestas                                                                  |
-| Información de Ruta     | Información sobre la ruta propuesta o elegida                                                     |
-| Comenzar Ruta           | Comenzar la ruta elegida para su seguimiento desde la aplicación en tiempo real                   |
-| Realizando Ruta         | Información de la ruta durante su realización                                                     |
-| Opinión                 | Valorar y comentar la ruta realizada                                                              |
-| Buscar                  | Buscar rutas y experiencias en la aplicación                                                      |
-| Login                   | Acceder a la aplicación                                                                           |
-| Register                | Registrarse en la aplicación                                                                      |
-| Perfil de usuario       | Lugar donde se pueden ver los datos y las distintas rutas y reservas de un usuario                |
-| Preferencias de usuario | Lugar donde se pueden modificar determinados aspectos de la configuración de un perfil de usuario |
+| Sobre nosotros (About Us) | Información de la empresa y del objetivo de la aplicación                                         |
+| Contáctanos (Contact Us) | Información de contacto de la empresa                                                             |
+| Gastronomía (Gastronomy) | Experiencias gastronómicas anunciadas en la aplicación                                            |
+| Monumentos (Monuments) | Experiencias de visitas de monumentos anunciadas en la aplicación                                 |
+| Paseos (Walks) | Experiencias de paseos anunciadas en la aplicación                                                |
+| Actividades (Activities) | Experiencias de actividades anunciadas en la aplicación                                           |
+| Rutas (Routes) | Itinerarios con diferentes experiencias                                                           |
+| Buscar ruta (Search route) | Buscar ruta en base a las preferencias de fechas y experiencia elegidas                           |
+| Elegir Ruta (Take route) | Elegir ruta entre las propuestas                                                                  |
+| Información de Ruta (Route information) | Información sobre la ruta propuesta o elegida                                                     |
+| Comenzar Ruta (Start route) | Comenzar la ruta elegida para su seguimiento desde la aplicación en tiempo real                   |
+| Realizando Ruta (In route) | Información de la ruta durante su realización                                                     |
+| Opinión (Opinion) | Valorar y comentar la ruta realizada                                                              |
+| Buscar (Search) | Buscar rutas y experiencias en la aplicación                                                      |
+| Iniciar sesión (Login) | Acceder a la aplicación                                                                           |
+| Registrarse (Register) | Registrarse en la aplicación                                                                      |
+| Perfil de usuario (User profile) | Lugar donde se pueden ver los datos y las distintas rutas y reservas de un usuario                |
+| Preferencias de usuario (User preferences) | Lugar donde se pueden modificar determinados aspectos de la configuración de un perfil de usuario |
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
@@ -189,9 +177,6 @@ Los pocos fallos que tiene la página no impiden que, en general, la experiencia
 
 ### Página de ruta (route.html)
 ![image](P2/img/prototipo-route.html.png)
-
->>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
-
 
 <!-- ## Paso 3. Mi UX-Case Study (diseño)
 
