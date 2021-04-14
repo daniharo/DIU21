@@ -155,10 +155,10 @@ Los pocos fallos que tiene la página no impiden que, en general, la experiencia
 | Actividades (Activities) | Experiencias de actividades anunciadas en la aplicación                                           |
 | Rutas (Routes) | Itinerarios con diferentes experiencias                                                           |
 | Buscar ruta (Search route) | Buscar ruta en base a las preferencias de fechas y experiencia elegidas                           |
-| Elegir Ruta (Take route) | Elegir ruta entre las propuestas                                                                  |
-| Información de Ruta (Route information) | Información sobre la ruta propuesta o elegida                                                     |
-| Comenzar Ruta (Start route) | Comenzar la ruta elegida para su seguimiento desde la aplicación en tiempo real                   |
-| Realizando Ruta (In route) | Información de la ruta durante su realización                                                     |
+| Elegir ruta (Take route) | Elegir ruta entre las propuestas                                                                  |
+| Información de ruta (Route information) | Información sobre la ruta propuesta o elegida                                                     |
+| Comenzar ruta (Start route) | Comenzar la ruta elegida para su seguimiento desde la aplicación en tiempo real                   |
+| Realizando ruta (In route) | Información de la ruta durante su realización                                                     |
 | Opinión (Opinion) | Valorar y comentar la ruta realizada                                                              |
 | Buscar (Search) | Buscar rutas y experiencias en la aplicación                                                      |
 | Iniciar sesión (Login) | Acceder a la aplicación                                                                           |
