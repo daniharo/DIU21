@@ -180,7 +180,7 @@ GranadaÁrabe ofrece a los usuarios una solución gratuita, barata y de calidad 
 ### Página de ruta (route.html)
 ![image](P2/img/prototipo-route.html.png)
 
-<!-- ## Paso 3. Mi UX-Case Study (diseño)
+## Paso 3. Mi UX-Case Study (diseño)
 
 
 ![Método UX](img/moodboard.png) 3.a Moodboard
@@ -218,7 +218,7 @@ GranadaÁrabe ofrece a los usuarios una solución gratuita, barata y de calidad 
 >>> Documente y resuma el diseño de su producto en forma de video de 90 segundos aprox
 
 
-## Paso 4. Evaluación 
+<!-- ## Paso 4. Evaluación 
 
 
 ![Método UX](img/ABtesting.png) 4.a Caso asignado
