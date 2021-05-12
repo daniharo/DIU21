@@ -2,7 +2,7 @@
 Prácticas Diseño Interfaces de Usuario 2020-21 (Tema: Turismo) 
 
 Grupo: DIU3_LosArtistas.  Curso: 2020/21 
-Updated: 14/4/2021
+Updated: 12/5/2021
 
 Proyecto:
 
@@ -14,8 +14,9 @@ La app ***GranadaÁrabe*** propone al usuario un conjunto de lugares y experienc
 
 El usuario podrá seleccionar el tiempo del que dispone para pasar en la ciudad y el tipo de experiencias que le gustaría vivir y disfrutar. En función de su selección, la app proporcionará una serie de rutas que al usuario podrían interesar, entre las cuales podrá elegir.
 
-Logotipo: 
->>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
+Logotipo:
+
+<img src="P3/img/granadaarabe-logotipo.png" width="250" height="250">
 
 Miembros
  * :bust_in_silhouette:   Ramón García Verjaga  
@@ -186,6 +187,13 @@ GranadaÁrabe ofrece a los usuarios una solución gratuita, barata y de calidad 
 ![Método UX](img/moodboard.png) 3.a Moodboard
 -----
 
+### Moodboard
+![image](P3/img/moodboard.png)
+
+
+### Logotipo
+<img src="P3/img/granadaarabe-logotipo.png" width="350" height="350">
+
 
 >>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
 >>> Incluir Logotipo
@@ -195,6 +203,7 @@ GranadaÁrabe ofrece a los usuarios una solución gratuita, barata y de calidad 
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
 
+![gif](P3/img/granadaarabe-landingpage.gif)
 
 >>> Plantear Landing Page 
 
