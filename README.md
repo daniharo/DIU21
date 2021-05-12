@@ -210,6 +210,17 @@ GranadaÁrabe ofrece a los usuarios una solución gratuita, barata y de calidad 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
 
+### Guía de estilo
+## Paleta de colores
+![image](P3/img/paleta.png)
+
+## Tipografía
+![image](P3/img/alice.png)
+![image](P3/img/montserrat.png)
+![image](P3/img/roboto.png)
+
+### Patrones de diseño
+
 >>> Estudio de Guidelines y Patrones IU a usar 
 >>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
 
