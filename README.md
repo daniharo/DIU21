@@ -242,9 +242,17 @@ Por ello, los colores elegidos se han considerado adecuados para diseñar Granad
 
 
 ### Tipografía
+
+Con el objetivo de facilitar la lectura y captar la atención de los usuarios hemos seleccionado las tres siguientes tipografías en sus diferentes variantes:
+
 ![image](P3/img/alice.png)
 ![image](P3/img/montserrat.png)
 ![image](P3/img/roboto.png)
+
+- **Alice**: se usa para el logo. marcando el contraste ya que es una fuente con serifas. Sus curvas y diseño le aportan un aire árabe, apropiado para la temática de nuestra aplicación.
+- **Montserrat Light**: se usa para el diseño de la web y la landing page. Proporciona una agradable lectura que ayuda a centrarse en los detalles del contenido. Sin serifa.
+- **Roboto**: se usa para la aplicación de Android por ser la fuente estandarizada para las apps en esta plataforma. Sencillez reforzada por su simetría. Sin serifa.
+
 
 ### Patrones de diseño
 - Como encabezado se ha decidido utilizar una [App Bar](https://material.io/components/app-bars-top).
