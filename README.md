@@ -238,7 +238,7 @@ El ***azul xanadu*** aporta un punto de contraste a la variedad de colores amari
 
 El ***naranja persa*** representa la cultura árabe, sus espacios y construcciones.
 
-Por ello, los colores elegidos se han considerado adecuados para diseñar GranadaÁrabe, una aplicación que permite una inmersión total en la cultura musulmana a través de sus tradiciones y costumbres. Esta paleta representa la historia que se quiere enseñar a través la propuesta.
+Por ello, los colores elegidos se han considerado adecuados para diseñar GranadaÁrabe, una aplicación que permite una inmersión total en la cultura musulmana a través de sus tradiciones y costumbres. Esta paleta representa la historia que se quiere enseñar a través de la propuesta.
 
 
 ### Tipografía
@@ -247,7 +247,7 @@ Por ello, los colores elegidos se han considerado adecuados para diseñar Granad
 ![image](P3/img/roboto.png)
 
 ### Patrones de diseño
-- Como se ha decidido utilizar una [App Bar](https://material.io/components/app-bars-top). No se muestra en la página de inicio puesto que en ella se simplifica el diseño para dar paso directamente al cálculo de la ruta.
+- Como encabezado se ha decidido utilizar una [App Bar](https://material.io/components/app-bars-top).
 - Para editar detalles en la página del usuario se utiliza un [Text Field](https://material.io/components/text-fields).
 - Para pasar entre las 3 distintas partes de la ruta (monumentos, gastronomía y actividades) se utiliza el patrón [Tabs](https://material.io/components/tabs).
 - Para seleccionar la parte de la aplicación que nos interesa (ruta, lista de todos los sitios e información general) se utiliza el patrón [Bottom Navigation Bar](https://material.io/components/bottom-navigation).
