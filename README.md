@@ -200,11 +200,6 @@ Para diseñar el imagotipo se ha utilizado una herramienta de diseño web denomi
 
 ![image](P3/img/granadaarabe-logotipo-prueba.png)
 
->>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
->>> Incluir Logotipo
->>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
-
-
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
 
@@ -262,6 +257,16 @@ Por ello, los colores elegidos se han considerado adecuados para diseñar Granad
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
+
+![image](P3/img/mockup-inicio.png)
+![image](P3/img/mockup-ruta-completa.png)
+![image](P3/img/mockup-ruta-monumentos.png)
+![image](P3/img/mockup-mirador.png)
+![image](P3/img/mockup-lista-completa.png)
+![image](P3/img/mockup-informacion.png)
+![image](P3/img/mockup-usuario.png)
+
+### Simulación
 
 >>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
 
