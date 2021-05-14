@@ -224,6 +224,8 @@ GranadaÁrabe ofrece a los usuarios una solución gratuita, barata y de calidad 
 ----
 
 ## Guía de estilo
+La guía de estilo utilizada es **[Material Design](https://material.io/design)**, por ser el estándar para la mayoría de apps móviles que se desarrollan para Android hoy en día. Proporciona numerosos componentes y patrones de diseño que encajan perfectamente en nuestra app.
+
 ### Paleta de colores
 Se ha seleccionado la siguiente paleta de colores con el objetivo de estructurar y definir de forma excepcional el valor de la marca. La paleta está conformada por un conjunto monocromático, que define el valor de la propuesta, junto a un color complementario, que se utiliza para destacar elementos claves, y dos colores básicos, que dotan de sencillez.
 
@@ -246,10 +248,7 @@ Por ello, los colores elegidos se han considerado adecuados para diseñar Granad
 ![image](P3/img/montserrat.png)
 ![image](P3/img/roboto.png)
 
-Guideline utilizado: **[Material Design](https://material.io/design)**, por ser el estándar para la mayoría de apps móviles que se desarrollan para Android hoy en día. Proporciona numerosos componentes y patrones de diseño que encajan perfectamente en nuestra app.
-
 ### Patrones de diseño
-
 - Como se ha decidido utilizar una [App Bar](https://material.io/components/app-bars-top). No se muestra en la página de inicio puesto que en ella se simplifica el diseño para dar paso directamente al cálculo de la ruta.
 - Para editar detalles en la página del usuario se utiliza un [Text Field](https://material.io/components/text-fields).
 - Para pasar entre las 3 distintas partes de la ruta (monumentos, gastronomía y actividades) se utiliza el patrón [Tabs](https://material.io/components/tabs).
