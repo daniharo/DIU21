@@ -191,9 +191,14 @@ GranadaÁrabe ofrece a los usuarios una solución gratuita, barata y de calidad 
 ![image](P3/img/moodboard.png)
 
 
-### Logotipo
+### Imagotipo
+El imagotipo de ***GranadaÁrabe*** está formado por tres partes bien diferenciadas, una parte gráfica en la que se puede distinguir un skyline de la Alhambra, una parte textual en la que aparece el nombre de la propuesta junto a un eslogan y una zona de color que pretende captar la atención.
+
 <img src="P3/img/granadaarabe-logotipo.png" width="350" height="350">
 
+Para diseñar el imagotipo se ha utilizado una herramienta de diseño web denominada [Canva](https://www.canva.com/ "Canva"). El logotipo se ha diseñado con resolución adaptativa para, de esta forma, poder adaptarlo a diferentes componentes. Se han generado algunas pruebas de cómo quedaría en diferentes lugares:
+
+![image](P3/img/granadaarabe-logotipo-prueba.png)
 
 >>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
 >>> Incluir Logotipo
