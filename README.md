@@ -250,8 +250,8 @@ Guideline utilizado: **[Material Design](https://material.io/design)**, por ser 
 
 ### Patrones de diseño
 
-- Como encabezado hemos decidido utilizar una [App Bar](https://material.io/components/app-bars-top). No se muestra en la página de inicio puesto que en ella se simplifica el diseño para dar paso directamente al cálculo de la ruta.
-- Para editar detalles en la página del usuario se usa un [Text Field](https://material.io/components/text-fields).
+- Como se ha decidido utilizar una [App Bar](https://material.io/components/app-bars-top). No se muestra en la página de inicio puesto que en ella se simplifica el diseño para dar paso directamente al cálculo de la ruta.
+- Para editar detalles en la página del usuario se utiliza un [Text Field](https://material.io/components/text-fields).
 - Para pasar entre las 3 distintas partes de la ruta (monumentos, gastronomía y actividades) se utiliza el patrón [Tabs](https://material.io/components/tabs).
 - Para seleccionar la parte de la aplicación que nos interesa (ruta, lista de todos los sitios e información general) se utiliza el patrón [Bottom Navigation Bar](https://material.io/components/bottom-navigation).
 - Para disparar acciones en la app, tales como calcular la ruta, ver información concreta o acudir a un enlace externo, se utiliza el patrón [Buttons](https://material.io/components/buttons), con el tipo **Contained button**.
