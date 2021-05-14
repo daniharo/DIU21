@@ -36,7 +36,7 @@ Miembros
  - [TripAdvisor](https://www.tripadvisor.es/ "TripAdvisor"): No está centrada exclusivamente en las experiencias y planificación de ocio. Permite buscar alojamientos, restaurantes, vuelos, etc. Además, destaca por la comunidad tan grande que posee, que la hace una plataforma repleta de opiniones e hilos en foros que permiten encontrar casi cualquier opinión sobre diferentes restaurantes, hoteles, actividades, etc.
  - [Airbnb](https://www.airbnb.es/ "Airbnb"):  Está centrada principalmente en el alojamiento, razón por la que se expandió en sus comienzos. Sin embargo, ofrece tanto experiencias presenciales como experiencias online. Estas últimas surgen debido a la pandemia de COVID-19 con un aire renovador de adaptación. Se posiciona como la única plataforma en ofrecer experiencias online.
  - [Agenda cultural Junta de Andalucía](https://www.juntadeandalucia.es/cultura/agendaculturaldeandalucia/ "Agenda cultural Junta de Andalucía"): Está centrada exclusivamente en las experiencias y planificación de ocio. Permite conocer la mayor parte de los eventos culturales de Andalucía. Está dedicada a poner en valor el ocio regional y rural.
- 
+
  Tabla de análisis comparativo que refleja algunas de las que hemos considerado principales características de las diferentes plataformas elegidas:
 
 | | [Civitatis](https://www.civitatis.com/es/ "Civitatis") | [TripAdvisor](https://www.tripadvisor.es/ "TripAdvisor") | [Airbnb](https://www.airbnb.es/ "Airbnb") | [Agenda cultural Junta de Andalucía](https://www.juntadeandalucia.es/cultura/agendaculturaldeandalucia/ "Agenda cultural Junta de Andalucía") |
@@ -219,10 +219,17 @@ GranadaÁrabe ofrece a los usuarios una solución gratuita, barata y de calidad 
 ![image](P3/img/montserrat.png)
 ![image](P3/img/roboto.png)
 
+Guideline utilizado: **[Material Design](https://material.io/design)**, por ser el estándar para la mayoría de apps móviles que se escrien para Android hoy en día. Proporciona numerosos componentes y patrones de diseño que encajan perfectamente en nuestra app.
+
 ### Patrones de diseño
 
->>> Estudio de Guidelines y Patrones IU a usar 
->>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+- Como encabezado hemos decidido utilizar una [App Bar](https://material.io/components/app-bars-top). No se muestra en la página de inicio puesto que en ella se simplifica el diseño para dar paso solo al cálculo de la ruta.
+- Para editar detalles en la página del usuario se usa un [Text Field](https://material.io/components/text-fields).
+- Para pasar entre las 3 distintas partes de la ruta (monumentos, gastronomía y actividades) se utiliza el patrón [Tabs](https://material.io/components/tabs).
+- Para seleccionar la parte de la aplicación que nos interesa (ruta, lista de todos los sitios e información general), utilizamos el patrón [Bottom Navigation Bar](https://material.io/components/bottom-navigation).
+- Para disparar acciones en la app, tales como calcular la ruta, ver información concreta o acudir a un enlace externo, se usa el patrón [Buttons](https://material.io/components/buttons), con el tipo **Contained button**.
+- Para visualizar información pasajera y que superpone sobre la app, usamoe el patrón [Dialogs](https://www.material.io/components/dialog), con el tipo **Alert Dialog**.
+- Para la lista de elementos en la ruta, utilizamos el patrón [Lists](https://material.io/components/lists), con el tipo **Single-line List** ya que en la lista solo se visualiza el nombre del elemento, y si se quiere más información hay que pulsar sobre él.
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
@@ -252,7 +259,7 @@ GranadaÁrabe ofrece a los usuarios una solución gratuita, barata y de calidad 
 ----
 
 >>> Seleccione 4 personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Asigne dos a Caso A y 2 al caso B
- 
+
 
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
