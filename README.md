@@ -218,8 +218,6 @@ GranadaÁrabe ofrece a los usuarios una solución gratuita, barata y de calidad 
 ### Simulación
 ![gif](P3/img/granadaarabe-landingpage.gif)
 
->>> Plantear Landing Page 
-
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
 
