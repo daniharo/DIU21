@@ -246,17 +246,17 @@ Por ello, los colores elegidos se han considerado adecuados para diseñar Granad
 ![image](P3/img/montserrat.png)
 ![image](P3/img/roboto.png)
 
-Guideline utilizado: **[Material Design](https://material.io/design)**, por ser el estándar para la mayoría de apps móviles que se escrien para Android hoy en día. Proporciona numerosos componentes y patrones de diseño que encajan perfectamente en nuestra app.
+Guideline utilizado: **[Material Design](https://material.io/design)**, por ser el estándar para la mayoría de apps móviles que se desarrollan para Android hoy en día. Proporciona numerosos componentes y patrones de diseño que encajan perfectamente en nuestra app.
 
 ### Patrones de diseño
 
-- Como encabezado hemos decidido utilizar una [App Bar](https://material.io/components/app-bars-top). No se muestra en la página de inicio puesto que en ella se simplifica el diseño para dar paso solo al cálculo de la ruta.
+- Como encabezado hemos decidido utilizar una [App Bar](https://material.io/components/app-bars-top). No se muestra en la página de inicio puesto que en ella se simplifica el diseño para dar paso directamente al cálculo de la ruta.
 - Para editar detalles en la página del usuario se usa un [Text Field](https://material.io/components/text-fields).
 - Para pasar entre las 3 distintas partes de la ruta (monumentos, gastronomía y actividades) se utiliza el patrón [Tabs](https://material.io/components/tabs).
-- Para seleccionar la parte de la aplicación que nos interesa (ruta, lista de todos los sitios e información general), utilizamos el patrón [Bottom Navigation Bar](https://material.io/components/bottom-navigation).
-- Para disparar acciones en la app, tales como calcular la ruta, ver información concreta o acudir a un enlace externo, se usa el patrón [Buttons](https://material.io/components/buttons), con el tipo **Contained button**.
-- Para visualizar información pasajera y que superpone sobre la app, usamoe el patrón [Dialogs](https://www.material.io/components/dialog), con el tipo **Alert Dialog**.
-- Para la lista de elementos en la ruta, utilizamos el patrón [Lists](https://material.io/components/lists), con el tipo **Single-line List** ya que en la lista solo se visualiza el nombre del elemento, y si se quiere más información hay que pulsar sobre él.
+- Para seleccionar la parte de la aplicación que nos interesa (ruta, lista de todos los sitios e información general) se utiliza el patrón [Bottom Navigation Bar](https://material.io/components/bottom-navigation).
+- Para disparar acciones en la app, tales como calcular la ruta, ver información concreta o acudir a un enlace externo, se utiliza el patrón [Buttons](https://material.io/components/buttons), con el tipo **Contained button**.
+- Para visualizar información pasajera y que se superpone sobre la app se utiliza el patrón [Dialogs](https://www.material.io/components/dialog), con el tipo **Alert Dialog**.
+- Para la lista de elementos en la ruta se utiliza el patrón [Lists](https://material.io/components/lists), con el tipo **Single-line List** ya que en la lista solo se visualiza el nombre del elemento, y si se quiere más información hay que pulsar sobre él.
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
