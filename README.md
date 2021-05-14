@@ -203,6 +203,19 @@ GranadaÁrabe ofrece a los usuarios una solución gratuita, barata y de calidad 
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
 
+### Página 1
+#### Información multimedia relevante para captar la atención de los usuarios
+![image](P3/img/granadaarabe-landingpage-1.png)
+
+### Página 2
+#### Explicación del valor y la importancia de la oferta para los usuarios
+![image](P3/img/granadaarabe-landingpage-2.png)
+
+### Página 3
+#### Posibilidades y ventajas de la oferta para los usuarios
+![image](P3/img/granadaarabe-landingpage-3.png)
+
+### Simulación
 ![gif](P3/img/granadaarabe-landingpage.gif)
 
 >>> Plantear Landing Page 
@@ -210,11 +223,25 @@ GranadaÁrabe ofrece a los usuarios una solución gratuita, barata y de calidad 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
 
-### Guía de estilo
-## Paleta de colores
+## Guía de estilo
+### Paleta de colores
+Se ha seleccionado la siguiente paleta de colores con el objetivo de estructurar y definir de forma excepcional el valor de la marca. La paleta está conformada por un conjunto monocromático, que define el valor de la propuesta, junto a un color complementario, que se utiliza para destacar elementos claves, y dos colores básicos, que dotan de sencillez.
+
 ![image](P3/img/paleta.png)
 
-## Tipografía
+El ***amarillo***:
+- En un tono **claro** (amarillo canario) representa elegancia, originalidad y alegría.
+- En un tono **pálido** (amarillo paja) representa el deterioro y el paso del tiempo.
+- En un tono **dorado** (amarillo oro) representa opulencia y riqueza.
+
+El ***azul xanadu*** aporta un punto de contraste a la variedad de colores amarillos.
+
+El ***naranja persa*** representa la cultura árabe, sus espacios y construcciones.
+
+Por ello, los colores elegidos se han considerado adecuados para diseñar GranadaÁrabe, una aplicación que permite una inmersión total en la cultura musulmana a través de sus tradiciones y costumbres. Esta paleta representa la historia que se quiere enseñar a través la propuesta.
+
+
+### Tipografía
 ![image](P3/img/alice.png)
 ![image](P3/img/montserrat.png)
 ![image](P3/img/roboto.png)
