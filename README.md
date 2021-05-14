@@ -258,17 +258,16 @@ Por ello, los colores elegidos se han considerado adecuados para diseñar Granad
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
 
-![image](P3/img/mockup-inicio.png)
-![image](P3/img/mockup-ruta-completa.png)
-![image](P3/img/mockup-ruta-monumentos.png)
-![image](P3/img/mockup-mirador.png)
-![image](P3/img/mockup-lista-completa.png)
-![image](P3/img/mockup-informacion.png)
-![image](P3/img/mockup-usuario.png)
+### Pantallas
+Inicio                                             |  Ruta completa                                            | Ruta monumentos                                            | Monumento
+:-------------------------------------------------:|:---------------------------------------------------------:|:----------------------------------------------------------:|:-----------------------------------------------------:
+<img src="P3/img/mockup-inicio.png" height="500">  |  <img src="P3/img/mockup-ruta-completa.png" height="500"> | <img src="P3/img/mockup-ruta-monumentos.png" height="500"> | <img src="P3/img/mockup-mirador.png" height="500">
+ 
+Lista completa             |  Información        | Usuario
+:---------------------------------------------------------:|:-------------------------------------------------------:|:--------------------------------------------------:
+<img src="P3/img/mockup-lista-completa.png" height="500">  |  <img src="P3/img/mockup-informacion.png" height="500"> | <img src="P3/img/mockup-usuario.png" height="500">
 
 ### Simulación
-
->>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
 
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
