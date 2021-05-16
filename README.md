@@ -285,9 +285,7 @@ Lista completa             |  Información        | Usuario
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 -----
 
-
->>> Publicar my Case Study en Github..
->>> Documente y resuma el diseño de su producto en forma de video de 90 segundos aprox
+### :movie_camera: [GranadaÁrabe](https://github.com/daniharo/DIU21/blob/master/P3/granadaarabe.mp4) 
 
 
 <!-- ## Paso 4. Evaluación 
