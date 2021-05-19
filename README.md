@@ -288,7 +288,7 @@ Lista completa             |  Información        | Usuario
 ### :movie_camera: [GranadaÁrabe](https://github.com/daniharo/DIU21/blob/master/P3/granadaarabe.mp4) 
 
 
-<!-- ## Paso 4. Evaluación 
+## Paso 4. Evaluación 
 
 
 ![Método UX](img/ABtesting.png) 4.a Caso asignado
@@ -332,7 +332,7 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 >>> Valoración personal 
 
 
-## Paso 5. Evaluación de Accesibilidad  
+<!-- ## Paso 5. Evaluación de Accesibilidad  
 
 
 ![Método UX](img/Accesibility.png)  5.a Accesibility evaluation Report 
