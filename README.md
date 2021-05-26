@@ -297,6 +297,8 @@ Lista completa             |  Información        | Usuario
 
 >>> Breve descripción del caso asignado con enlace a  su repositorio Github
 
+[GranadaApp](https://github.com/JuamMM/DIU21) es una plataforma que permite buscar tanto actividades como alojamiento en la ciudad de Granada. Ofrece todo lo necesario para realizar reservas. También, pone a disposición del usuario diversa información de la ciudad que podría ser de su interés. Además, la aplicación puede ser utilizada tanto estando registrado como sin registrar.
+
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ----
@@ -304,12 +306,12 @@ Lista completa             |  Información        | Usuario
 >>> Seleccione 4 personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Asigne dos a Caso A y 2 al caso B
 
 
-| Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
-| ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
+| Nombre  | Género    | Edad | Ocupación  | Experiencia en internet | Plataforma                         | Perfil cubierto                                                                                | Test | Puntuación SUS |
+|---------|-----------|------|------------|-------------------------|------------------------------------|------------------------------------------------------------------------------------------------|------|----------------|
+| 👨‍🏫 Antonio | Masculino | 52   | Profesor   | Alta                    | Escritorio Windows y móvil Android | Siempre busca actividades para hacer con sus hijos. No se conforma con cualquier cosa.         | A    |                |
+| 👵 Juana | Femenino  | 73   | Jubilada   | Baja                    | Móvil iPhone                       | Se distrae con el móvil. Aprende a navegar por internet. Le gusta mirar viajes y restaurantes. | B    |                |
+| 👨‍🎓 Pedro | Masculino | 18   | Estudiante | Alta                    | Escritorio Linux                   | Inquieto, siempre busca algo que hacer. Le gusta la historia y visitar ciudades.               | A    |                |
+| 👩‍🎓 Elena | Femenino  | 22   | Estudiante | Alta                    | Móvil Android                      | Intranquila, le gusta viajar, maneja el móvil de forma muy rápida.                             | B    |                |
 
 
 ![Método UX](img/Survey.png). 4.c Cuestionario SUS
