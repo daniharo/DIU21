@@ -327,7 +327,10 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 
 ![image](P4/img/cuestionario-SUS.png)
 
-#### Enlaces al test de usabilidad SUS (System Usability Scale Test):
+#### Valoración personal
+Valoración personal........
+
+#### Enlaces al test de usabilidad SUS (System Usability Scale Test)
 
 :link: [System-Usability-Scale-Test.pdf](P4/cuestionario-SUS.pdf)
 
