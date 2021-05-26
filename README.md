@@ -321,8 +321,17 @@ Lista completa             |  Información        | Usuario
 http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
 Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
 
->>> Adjuntar captura de imagen con los resultados + Valoración personal 
+>>> Adjuntar captura de imagen con los resultados + Valoración personal
 
+### System Usability Scale Test
+
+![image](P4/img/cuestionario-SUS.png)
+
+#### Enlaces al test de usabilidad SUS (System Usability Scale Test):
+
+:link: [System-Usability-Scale-Test.pdf](P4/cuestionario-SUS.pdf)
+
+:link: [System-Usability-Scale-Test.xlsx](P4/cuestionario-SUS.xlsx)
 
 ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
