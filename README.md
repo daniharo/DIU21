@@ -327,14 +327,14 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 
 ![image](P4/img/cuestionario-SUS.png)
 
-#### Valoración personal
-Valoración personal........
-
 #### Enlaces al test de usabilidad SUS (System Usability Scale Test)
 
 :link: [System-Usability-Scale-Test.pdf](P4/cuestionario-SUS.pdf)
 
 :link: [System-Usability-Scale-Test.xlsx](P4/cuestionario-SUS.xlsx)
+
+#### Valoración personal
+Valoración personal........
 
 ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
