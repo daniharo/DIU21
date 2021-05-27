@@ -294,22 +294,26 @@ Lista completa             |  Información        | Usuario
 ![Método UX](img/ABtesting.png) 4.a Caso asignado
 ----
 
-[GranadaApp](https://github.com/JuamMM/DIU21) es una plataforma que permite buscar tanto actividades como alojamiento en la ciudad de Granada. Ofrece todo lo necesario para realizar reservas. También, pone a disposición del usuario diversa información de la ciudad que podría ser de su interés. La aplicación puede ser utilizada tanto por usuarios invitados (no registrados), que no gozan de una experiencia personalizada, como por usuarios clientes (registrados), que pueden obtener recomendaciones y diversa información en relación a sus intereses.
+***GranadaApp*** [(DIU2.JMM)](https://github.com/JuamMM/DIU21) es una plataforma que permite buscar tanto actividades como alojamiento en la ciudad de Granada. Ofrece todo lo necesario para realizar reservas. También, pone a disposición del usuario diversa información de la ciudad que podría ser de su interés. La aplicación puede ser utilizada tanto por usuarios invitados (no registrados), que no gozan de una experiencia personalizada, como por usuarios clientes (registrados), que pueden obtener recomendaciones y diversa información en relación a sus intereses.
 
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ----
 
->>> Seleccione 4 personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Asigne dos a Caso A y 2 al caso B
-
-
 | Nombre  | Género    | Edad | Ocupación  | Experiencia en internet | Plataforma                         | Perfil cubierto                                                                                | Test | Puntuación SUS |
 |---------|-----------|------|------------|-------------------------|------------------------------------|------------------------------------------------------------------------------------------------|------|----------------|
-| 👨‍🏫 Antonio | Masculino | 52   | Profesor   | Alta                    | Escritorio Windows y móvil Android | Siempre busca actividades para hacer con sus hijos. No se conforma con cualquier cosa.         | A    |       90         |
+| 👨‍🏫 Antonio | Masculino | 52   | Profesor   | Alta                    | Escritorio Windows - Móvil Android | Siempre busca actividades para hacer con sus hijos. No se conforma con cualquier cosa.         | A    |       90         |
 | 👵 Juana | Femenino  | 73   | Jubilada   | Baja                    | Móvil iPhone                       | Se distrae con el móvil. Aprende a navegar por internet. Le gusta mirar viajes y restaurantes. | B    |       55         |
 | 👨‍🎓 Pedro | Masculino | 18   | Estudiante | Alta                    | Escritorio Linux                   | Inquieto. Siempre busca algo que hacer. Le gusta la historia y visitar ciudades.               | A    |       97.5         |
 | 👩‍🎓 Elena | Femenino  | 22   | Estudiante | Alta                    | Móvil Android                      | Intranquila. Le gusta viajar, maneja el móvil de forma muy rápida.                             | B    |      67.5          |
 
+Estas cuatro personas se han elaborado basándose en personas cercanas de nuestro entorno que podrían, de algún modo, tener interés en utilizar el producto que se está evaluando.
+
+- *Antonio*, profesor, tiene un perfil que aporta madurez y experiencia en el uso de estos productos. Gracias a esto, se pueden identificar carencias variadas asociadas a un mal diseño del producto.
+
+- *Juana*, jubilada, tiene un perfil que aporta inexperiencia en el uso de las nuevas tecnologías. Por ello, ha sido útil que realizara la valoración, teniendo como objetivo encontrar las deficiencias de diseño que pueden afectar a personas que no se desenvuelven del todo bien en estos entornos.
+
+- *Pedro* y *Elena*, estudiantes, tienen un perfil parecido que es muy común en la utilización de este tipo de productos. Esto ha sido útil ya que cada uno ha participado en la evaluación de un producto diferente, teniendo como meta lograr determinar cuáles son los problemas que afectan a la mayoría de usuarios estándar que utilizan cada uno de los productos.
 
 ![Método UX](img/Survey.png). 4.c Cuestionario SUS
 ----
@@ -317,8 +321,6 @@ Lista completa             |  Información        | Usuario
 >>> Usaremos el **Cuestionario SUS** para valorar la satisfacción de cada usuario con el diseño (A/B) realizado. Para ello usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx) para calcular resultados sigiendo las pautas para usar la escala SUS e interpretar los resultados
 http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
 Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
-
->>> Adjuntar captura de imagen con los resultados + Valoración personal
 
 ### System Usability Scale Test (SUS)
 
@@ -343,7 +345,7 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 :link: [UXCaseStudy-review-DIU2_JMM.xlsx](P4/UXCaseStudy-review-DIU2_JMM.xlsx)
 
 ### Valoración personal
-Valoración personal........
+Como
 
 ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
