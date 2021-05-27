@@ -323,11 +323,11 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 
 >>> Adjuntar captura de imagen con los resultados + Valoración personal
 
-### System Usability Scale Test
+### System Usability Scale Test (SUS)
 
 ![image](P4/img/cuestionario-SUS.png)
 
-#### Enlaces al test de usabilidad SUS (System Usability Scale Test)
+#### Enlaces al test de usabilidad System Usability Scale Test
 
 :link: [System-Usability-Scale-Test.pdf](P4/cuestionario-SUS.pdf)
 
@@ -339,7 +339,7 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 
 ![image](P4/img/UXCaseStudy-review-DIU2_JMM-2.png)
 
-#### Enlaces al UX Case Study Review
+#### Enlaces al User Experience Case Study Review
 
 :link: [UXCaseStudy-review-DIU2_JMM.pdf](P4/UXCaseStudy-review-DIU2_JMM.pdf)
 
