@@ -294,10 +294,7 @@ Lista completa             |  Información        | Usuario
 ![Método UX](img/ABtesting.png) 4.a Caso asignado
 ----
 
-
->>> Breve descripción del caso asignado con enlace a  su repositorio Github
-
-[GranadaApp](https://github.com/JuamMM/DIU21) es una plataforma que permite buscar tanto actividades como alojamiento en la ciudad de Granada. Ofrece todo lo necesario para realizar reservas. También, pone a disposición del usuario diversa información de la ciudad que podría ser de su interés. Además, la aplicación puede ser utilizada tanto estando registrado como sin registrar.
+[GranadaApp](https://github.com/JuamMM/DIU21) es una plataforma que permite buscar tanto actividades como alojamiento en la ciudad de Granada. Ofrece todo lo necesario para realizar reservas. También, pone a disposición del usuario diversa información de la ciudad que podría ser de su interés. La aplicación puede ser utilizada tanto por usuarios invitados (no registrados), que no gozan de una experiencia personalizada, como por usuarios clientes (registrados), que pueden obtener recomendaciones y diversa información en relación a sus intereses.
 
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
@@ -310,8 +307,8 @@ Lista completa             |  Información        | Usuario
 |---------|-----------|------|------------|-------------------------|------------------------------------|------------------------------------------------------------------------------------------------|------|----------------|
 | 👨‍🏫 Antonio | Masculino | 52   | Profesor   | Alta                    | Escritorio Windows y móvil Android | Siempre busca actividades para hacer con sus hijos. No se conforma con cualquier cosa.         | A    |       90         |
 | 👵 Juana | Femenino  | 73   | Jubilada   | Baja                    | Móvil iPhone                       | Se distrae con el móvil. Aprende a navegar por internet. Le gusta mirar viajes y restaurantes. | B    |       55         |
-| 👨‍🎓 Pedro | Masculino | 18   | Estudiante | Alta                    | Escritorio Linux                   | Inquieto, siempre busca algo que hacer. Le gusta la historia y visitar ciudades.               | A    |       97.5         |
-| 👩‍🎓 Elena | Femenino  | 22   | Estudiante | Alta                    | Móvil Android                      | Intranquila, le gusta viajar, maneja el móvil de forma muy rápida.                             | B    |      67.5          |
+| 👨‍🎓 Pedro | Masculino | 18   | Estudiante | Alta                    | Escritorio Linux                   | Inquieto. Siempre busca algo que hacer. Le gusta la historia y visitar ciudades.               | A    |       97.5         |
+| 👩‍🎓 Elena | Femenino  | 22   | Estudiante | Alta                    | Móvil Android                      | Intranquila. Le gusta viajar, maneja el móvil de forma muy rápida.                             | B    |      67.5          |
 
 
 ![Método UX](img/Survey.png). 4.c Cuestionario SUS
