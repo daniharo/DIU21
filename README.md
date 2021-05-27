@@ -308,10 +308,10 @@ Lista completa             |  Información        | Usuario
 
 | Nombre  | Género    | Edad | Ocupación  | Experiencia en internet | Plataforma                         | Perfil cubierto                                                                                | Test | Puntuación SUS |
 |---------|-----------|------|------------|-------------------------|------------------------------------|------------------------------------------------------------------------------------------------|------|----------------|
-| 👨‍🏫 Antonio | Masculino | 52   | Profesor   | Alta                    | Escritorio Windows y móvil Android | Siempre busca actividades para hacer con sus hijos. No se conforma con cualquier cosa.         | A    |                |
-| 👵 Juana | Femenino  | 73   | Jubilada   | Baja                    | Móvil iPhone                       | Se distrae con el móvil. Aprende a navegar por internet. Le gusta mirar viajes y restaurantes. | B    |                |
-| 👨‍🎓 Pedro | Masculino | 18   | Estudiante | Alta                    | Escritorio Linux                   | Inquieto, siempre busca algo que hacer. Le gusta la historia y visitar ciudades.               | A    |                |
-| 👩‍🎓 Elena | Femenino  | 22   | Estudiante | Alta                    | Móvil Android                      | Intranquila, le gusta viajar, maneja el móvil de forma muy rápida.                             | B    |                |
+| 👨‍🏫 Antonio | Masculino | 52   | Profesor   | Alta                    | Escritorio Windows y móvil Android | Siempre busca actividades para hacer con sus hijos. No se conforma con cualquier cosa.         | A    |       90         |
+| 👵 Juana | Femenino  | 73   | Jubilada   | Baja                    | Móvil iPhone                       | Se distrae con el móvil. Aprende a navegar por internet. Le gusta mirar viajes y restaurantes. | B    |       55         |
+| 👨‍🎓 Pedro | Masculino | 18   | Estudiante | Alta                    | Escritorio Linux                   | Inquieto, siempre busca algo que hacer. Le gusta la historia y visitar ciudades.               | A    |       97.5         |
+| 👩‍🎓 Elena | Femenino  | 22   | Estudiante | Alta                    | Móvil Android                      | Intranquila, le gusta viajar, maneja el móvil de forma muy rápida.                             | B    |      67.5          |
 
 
 ![Método UX](img/Survey.png). 4.c Cuestionario SUS
