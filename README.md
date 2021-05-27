@@ -333,7 +333,19 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 
 :link: [System-Usability-Scale-Test.xlsx](P4/cuestionario-SUS.xlsx)
 
-#### Valoración personal
+### User Experience Case Study Review (Extra)
+
+![image](P4/img/UXCaseStudy-review-DIU2_JMM-1.png)
+
+![image](P4/img/UXCaseStudy-review-DIU2_JMM-2.png)
+
+#### Enlaces al UX Case Study Review
+
+:link: [UXCaseStudy-review-DIU2_JMM.pdf](P4/UXCaseStudy-review-DIU2_JMM.pdf)
+
+:link: [UXCaseStudy-review-DIU2_JMM.xlsx](P4/UXCaseStudy-review-DIU2_JMM.xlsx)
+
+### Valoración personal
 Valoración personal........
 
 ![Método UX](img/usability-report.png) 4.d Usability Report
@@ -341,9 +353,8 @@ Valoración personal........
 
 >> Añadir report de usabilidad para práctica B (la de los compañeros)
 
-
-
 >>> Valoración personal 
+
 
 
 <!-- ## Paso 5. Evaluación de Accesibilidad  
