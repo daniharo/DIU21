@@ -350,10 +350,14 @@ Como
 ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
 
->> Añadir report de usabilidad para práctica B (la de los compañeros)
+### Enlaces al Usability Report
 
->>> Valoración personal 
+:link: [P4_UsabReport_GranadaApp_doneby_DIU3_LosArtistas.pdf](P4/P4_UsabReport_GranadaApp_doneby_DIU3_LosArtistas.pdf)
 
+:link: [P4_UsabReport_GranadaApp_doneby_DIU3_LosArtistas.docx](P4/P4_UsabReport_GranadaApp_doneby_DIU3_LosArtistas.docx)
+
+### Valoración personal
+...
 
 
 <!-- ## Paso 5. Evaluación de Accesibilidad  
