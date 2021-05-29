@@ -341,7 +341,18 @@ Estas cuatro personas se han elaborado basándose en personas cercanas de nuestr
 :link: [UXCaseStudy-review-DIU2_JMM.xlsx](P4/UXCaseStudy-review-DIU2_JMM.xlsx)
 
 ### Valoración personal
-Como
+
+Se ha llevado a cabo la evaluación con la aplicación de varias técnicas:
+- En primer lugar, se ha realizado un System Usability Scale Test (SUS) a través del cual se han obtenido resultados comparativos entre dos prototipos de aspectos generales de los mismos. 
+- Posteriormente, de forma extra, se ha realizado un User Experience Case Study Review a través del cual se han podido obtener valoraciones del proceso completo del diseño y desarrollo del prototipo.
+
+Los problemas más graves detectados tienen que ver con la incompletitud del prototipo. Algunos de los encontrados son los siguientes:
+- Al diseño actual le falta aún bastante especificidad para mostrar realmente el que será su aspecto funcional.
+- No se puede interaccionar correctamente porque no se presentan determinadas funcionalidades básicas.
+- No se presta demasiada atención a los detalles en el diseño. Por ejemplo, se puede apreciar en la barra de navegación de la landing page como no se ha aplicado la técnica de alineación de elementos.
+- Le falta identidad, pues no se presenta ningún logotipo que integre el nombre de la aplicación ni en Github ni en el vídeo de presentación del prototipo.
+- La landing page no destaca la propuesta de valor de la idea.
+- No se explican las guidelines seguidas para la realización del diseño.
 
 ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
@@ -353,7 +364,16 @@ Como
 :link: [P4_UsabReport_GranadaApp_doneby_DIU3_LosArtistas.docx](P4/P4_UsabReport_GranadaApp_doneby_DIU3_LosArtistas.docx)
 
 ### Valoración personal
-...
+
+El proyecto, que parte de una buena idea, no se ha trabajado lo suficiente para desarrollarlo a un alto nivel de completitud. No está bien estructurado, lo que hace que el análisis del mismo sea complicado. Además, no existe una imagen de marca bien definida, pues elementos como el moodboard, logotipo, landing page, etc., no están hechos, y los que están hechos no parecen estar relacionados. El vídeo de presentación está bien elaborado y la idea bien vendida, sin embargo, habría sido interesante tener un prototipo más completo, con un branding bien definido, para que se pudiera apreciar todo su potencial.
+
+Con el objetivo de mejorar el proyecto se ofrecen las siguientes recomendaciones:
+- Reestructuración del documento expositivo (README.md) con la finalidad de que la información se presente de forma clara y diferenciada.
+- Elaboración de moodboard que se identifique con la marca.
+- Construcción de una landing page que destaque la propuesta de valor.
+- Justificación correcta de los elementos del diseño, sobretodo de las guidelines utilizadas.
+- Creación de un logo adecuado a la idea y al diseño.
+- Mejora del prototipo incluyendo ejemplos reales de información de la ciudad, alojamiento y actividades.
 
 
 <!-- ## Paso 5. Evaluación de Accesibilidad  
