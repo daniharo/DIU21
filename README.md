@@ -394,6 +394,12 @@ Con el objetivo de mejorar el proyecto se ofrecen las siguientes recomendaciones
 
 
 ## Conclusión final / Valoración de las prácticas
+Por la naturelaza de nuestros estudios y, problamente, nuestras futuras profesiones invertimos e invertiremos gran parte de nuestro tiempo diseñando y desarrollando productos. En numerosas ocasiones, nos centramos más en la parte técnica de los mismos, dejando a un lado una parte fundamental: un adecuado diseño de interfaz centrado en el usuario y su experiencia. 
 
+Este compendio de prácticas nos ha aportado una concepción más amplia de lo que es realizar un desarrollo integral de un diseño de usuario, permitiéndonos adquirir experiencia para nuestro futuro profesional. No solo hemos desarrollado un diseño de usuario, sino que también hemos evaluado otros diseños de usuario, proceso que nos ha formado para ser autocríticos y comprender que este trabajo se tiene que hacer desde la objetividad y teniendo en cuenta a diversos grupos de usuarios que no se identifican con uno mismo.
 
->>> (90-150 palabras) Opinión del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos
+Las diferentes tareas realizadas nos han hecho comprender lo importante que son los detalles, pudiendo marcar la diferencia entre dos productos similares.
+
+Ahora, sabemos cuales son las tareas llevabas a cabo por un UX Designer y lo importante que es su trabajo en un equipo de diseño y desarrollo de productos.
+
+Concluimos con una valoración muy positiva de los resultados obtenidos. Tanto el esfuerzo como la constancia aplicados en estas prácticas se han visto recompensados con un, a nuestro parecer, fantástico diseño. Además, en el resultado se refleja que hemos afianzado todos los conocimientos teórico-prácticos explicados a lo largo de la asignatura. Sin lugar a dudas, volveríamos a repetir esta experiencia.
