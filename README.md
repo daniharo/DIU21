@@ -315,7 +315,7 @@ Estas cuatro personas se han elaborado basándose en personas cercanas de nuestr
 
 - *Pedro* y *Elena*, estudiantes, tienen un perfil parecido que es muy común en la utilización de este tipo de productos. Esto ha sido útil ya que cada uno ha participado en la evaluación de un producto diferente, teniendo como meta lograr determinar cuáles son los problemas que afectan a la mayoría de usuarios estándar que utilizan cada uno de los productos.
 
-![Método UX](img/Survey.png). 4.c Cuestionario SUS
+![Método UX](img/Survey.png) 4.c Cuestionario SUS
 ----
 
 ### System Usability Scale Test (SUS)
